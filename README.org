@@ -1,0 +1,6 @@
+* Sieve of Erathosthemes
+*** By Feynman Liang <feynman.liang@gmail.com>
+    This program generates a list of primes between 2 and a user
+    specified n. Using the Sieve of Erathosthemes, a list of numbers
+    between 2 and n is generated and then sequentially eliminated by
+    testing divisability with smaller elements.
